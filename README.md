@@ -1,3 +1,2 @@
-# rsschool-2019Q1-codeacademy
-# rsschool-2019Q1-codeacademy
-# rsschool-2019Q1-codeacademy
+Kirill Zhuck
+HTML CSS Basics: https://www.codecademy.com/users/Gomeron21/achievements
